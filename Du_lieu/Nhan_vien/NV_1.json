@@ -1,0 +1,88 @@
+{
+    "CMND": "053646838",
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {
+                "Ngay": "2021-03-08",
+                "Noi_dung": "ok"
+            }
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "Ch\u00e1n",
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 5,
+            "Ngay_bat_dau": "2021-04-18",
+            "So_ngay": "1",
+            "Ly_do": "B\u1ec7nh",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "NGA",
+            "Ten": "Nga"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "\u0110\u1ee9c"
+        }
+    ],
+    "Dia_chi": "Ph\u1ea1m ph\u01b0\u1edbc G Qu\u1eadn 4-TP. HCM",
+    "Dien_thoai": "0949131200",
+    "Don_vi": {
+        "Chi_nhanh": {
+            "Ma_so": "CN_2",
+            "Ten": "Chi nh\u00e1nh B"
+        },
+        "Ma_so": "DV_6",
+        "Ten": "\u0110a n\u0103ng B"
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Ph\u1ea1m v\u0103n Nguy\u00ean",
+    "Ma_so": "NV_1",
+    "Mail": "pvnguy\u00ean@mdayahoovn",
+    "Mat_khau": "NV_1",
+    "Muc_luong": 5950000,
+    "Ngay_sinh": "1980-11-23T17:00:00Z",
+    "Ten_Dang_nhap": "NV_1",
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+	"Ho_ten": "Ngô tắc Thu",
+	"Ma_so": "NV_24",
+	"CMND": "003273954",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0947007585",
+	"Dia_chi": "Tô thành N Quận 7-TP. HCM",
+	"Mail": "ntthu@hcmvn",
+	"Ten_Dang_nhap": "NV_24",
+	"Mat_khau": "NV_24",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1985-09-01T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	],
+	"Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+	"Y_Kien_QLDV" :[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}],"Y_Kien_QCLCN":[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}]
+}

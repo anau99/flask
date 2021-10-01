@@ -1,0 +1,201 @@
+{
+    "Ma_so": "CT_1",
+    "Ten": "C\u00f4ng ty X",
+    "Danh_sach_Chi_nhanh": [
+        {
+            "Ma_so": "CN_1",
+            "Ten": "Chi nh\u00e1nh A"
+        },
+        {
+            "Ten": "Chi nh\u00e1nh B",
+            "Ma_so": "CN_2"
+        }
+    ],
+    "Danh_sach_Don_vi": [
+        {
+            "Ma_so": "DV_1",
+            "Ten": "D\u1ecbch thu\u1eadt",
+            "Chi_nhanh": {
+                "Ma_so": "CN_1",
+                "Ten": "Chi nh\u00e1nh A"
+            }
+        },
+        {
+            "Ma_so": "DV_2",
+            "Ten": "\u0110a n\u0103ng A",
+            "Chi_nhanh": {
+                "Ma_so": "CN_1",
+                "Ten": "Chi nh\u00e1nh A"
+            }
+        },
+        {
+            "Ma_so": "DV_3",
+            "Ten": "T\u01b0 v\u1ea5n du h\u1ecdc 1",
+            "Chi_nhanh": {
+                "Ma_so": "CN_2",
+                "Ten": "Chi nh\u00e1nh B"
+            }
+        },
+        {
+            "Ma_so": "DV_4",
+            "Ten": "T\u01b0 v\u1ea5n du h\u1ecdc 2",
+            "Chi_nhanh": {
+                "Ma_so": "CN_2",
+                "Ten": "Chi nh\u00e1nh B"
+            }
+        },
+        {
+            "Ma_so": "DV_5",
+            "Ten": "Visa",
+            "Chi_nhanh": {
+                "Ma_so": "CN_2",
+                "Ten": "Chi nh\u00e1nh B"
+            }
+          
+        },
+        {
+            "Ma_so": "DV_6",
+            "Ten": "\u0110a n\u0103ng B",
+            "Chi_nhanh": {
+                "Ma_so": "CN_2",
+                "Ten": "Chi nh\u00e1nh B"
+            }
+            
+        }
+    ],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "ANH",
+            "Ten": "Anh"
+           
+        },
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Ph\u00e1p"
+        
+        },
+        {
+            "Ma_so": "NGA",
+            "Ten": "Nga"
+          
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "\u0110\u1ee9c"
+          
+        },
+        {
+            "Ma_so": "Y",
+            "Ten": "\u00dd"
+        
+        }
+    ],
+    "Danh_sach_Quan_ly_Don_vi": [
+        {
+            "Ho_ten": "L\u00ea v\u0103n H\u00f9ng",
+            "Ma_so": "QLDV_1",
+            "Ten_Dang_nhap": "QLDV_1",
+            "Mat_khau": "QLDV_1",
+            "Don_vi": {
+                "Ten": "D\u1ecbch thu\u1eadt",
+                "Ma_so": "DV_1",
+                "Chi_nhanh": {
+                    "Ten": "Chi nh\u00e1nh A",
+                    "Ma_so": "CN_1"
+                }
+            }
+        },
+        {
+            "Ho_ten": "L\u00ea v\u0103n H\u00e0",
+            "Ma_so": "QLDV_2",
+            "Ten_Dang_nhap": "QLDV_2",
+            "Mat_khau": "QLDV_2",
+            "Don_vi": {
+                "Ten": "\u0110a n\u0103ng A",
+                "Ma_so": "DV_2",
+                "Chi_nhanh": {
+                    "Ten": "Chi nh\u00e1nh A",
+                    "Ma_so": "CN_1"
+                }
+            }
+        },
+        {
+            "Ho_ten": "L\u00ea v\u0103n B\u00ecnh",
+            "Ma_so": "QLDV_3",
+            "Ten_Dang_nhap": "QLDV_3",
+            "Mat_khau": "QLDV_3",
+            "Don_vi": {
+                "Ten": "T\u01b0 v\u1ea5n du h\u1ecdc 1",
+                "Ma_so": "DV_3",
+                "Chi_nhanh": {
+                    "Ten": "Chi nh\u00e1nh B",
+                    "Ma_so": "CN_2"
+                }
+            }
+        },
+        {
+            "Ho_ten": "L\u00ea th\u1ecb Ng\u1ecdc",
+            "Ma_so": "QLDV_4",
+            "Ten_Dang_nhap": "QLDV_4",
+            "Mat_khau": "QLDV_4",
+            "Don_vi": {
+                "Ten": "T\u01b0 v\u1ea5n du h\u1ecdc 2",
+                "Ma_so": "DV_4",
+                "Chi_nhanh": {
+                    "Ten": "Chi nh\u00e1nh B",
+                    "Ma_so": "CN_2"
+                }
+            }
+        },
+        {
+            "Ho_ten": "L\u00ea th\u1ecb B\u00edch",
+            "Ma_so": "QLDV_5",
+            "Ten_Dang_nhap": "QLDV_5",
+            "Mat_khau": "QLDV_5",
+            "Don_vi": {
+                "Ten": "Visa",
+                "Ma_so": "DV_5",
+                "Chi_nhanh": {
+                    "Ten": "Chi nh\u00e1nh B",
+                    "Ma_so": "CN_2"
+                }
+            }
+        },
+        {
+            "Ho_ten": "L\u00ea v\u0103n Ng\u1ecdc",
+            "Ma_so": "QLDV_6",
+            "Ten_Dang_nhap": "QLDV_6",
+            "Mat_khau": "QLDV_6",
+            "Don_vi": {
+                "Ten": "\u0110a n\u0103ng B",
+                "Ma_so": "DV_6",
+                "Chi_nhanh": {
+                    "Ten": "Chi nh\u00e1nh B",
+                    "Ma_so": "CN_2"
+                }
+            }
+        }
+    ],
+    "Danh_sach_Quan_ly_Chi_Nhanh": [
+        {
+            "Ho_ten": "Tr\u1ea7n v\u0103n Khi\u00eam",
+            "Ma_so": "QLCN_1",
+            "Ten_Dang_nhap": "QLCN_1",
+            "Mat_khau": "QLCN_1",
+            "Chi_nhanh": {
+                "Ten": "Chi nh\u00e1nh A",
+                "Ma_so": "CN_1"
+            }
+        },
+        {
+            "Ho_ten": "L\u00fd th\u1ecb Lan",
+            "Ma_so": "QLCN_2",
+            "Ten_Dang_nhap": "QLCN_2",
+            "Mat_khau": "QLCN_2",
+            "Chi_nhanh": {
+                "Ten": "Chi nh\u00e1nh B",
+                "Ma_so": "CN_2"
+            }
+        }
+    ]
+}

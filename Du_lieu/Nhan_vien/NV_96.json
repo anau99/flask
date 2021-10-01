@@ -1,0 +1,81 @@
+{
+    "Ho_ten": "Ph\u1ea1m th\u1ecb tr\u1ea7m Long",
+    "Ma_so": "NV_96",
+    "CMND": "089405702",
+    "Gioi_tinh": "N\u1eef",
+    "Dien_thoai": "0949131211",
+    "Dia_chi": "Nguy\u00ean ng\u1ecdc H Qu\u1eadn 9-TP. HCM",
+    "Mail": "pttlong@yahoocom",
+    "Ten_Dang_nhap": "NV_96",
+    "Mat_khau": "NV_96",
+    "Muc_luong": 14000000,
+    "Ngay_sinh": "1973-11-04T17:00:00Z",
+    "Don_vi": {
+        "Ten": "\u0110a n\u0103ng B",
+        "Ma_so": "DV_6",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh B",
+            "Ma_so": "CN_2"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ten": "Anh",
+            "Ma_so": "ANH"
+        },
+        {
+            "Ten": "Ph\u00e1p",
+            "Ma_so": "PHAP"
+        },
+        {
+            "Ten": "\u0110\u1ee9c",
+            "Ma_so": "DUC"
+        }
+    ],
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

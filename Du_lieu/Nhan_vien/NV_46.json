@@ -1,0 +1,81 @@
+{
+    "Ho_ten": "Th\u00e1i v\u0103n \u0110\u1ea1i",
+    "Ma_so": "NV_46",
+    "CMND": "088216444",
+    "Gioi_tinh": "Nam",
+    "Dien_thoai": "0949131211",
+    "Dia_chi": "\u0110inh \u0111\u00ecnh W Qu\u1eadn 14-TP. HCM",
+    "Mail": "tv\u0111\u1ea1i@gmailcom",
+    "Ten_Dang_nhap": "NV_46",
+    "Mat_khau": "NV_46",
+    "Muc_luong": 14000000,
+    "Ngay_sinh": "1990-03-02T17:00:00Z",
+    "Don_vi": {
+        "Ten": "T\u01b0 v\u1ea5n du h\u1ecdc 1",
+        "Ma_so": "DV_3",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh B",
+            "Ma_so": "CN_2"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ten": "Anh",
+            "Ma_so": "ANH"
+        },
+        {
+            "Ten": "Ph\u00e1p",
+            "Ma_so": "PHAP"
+        },
+        {
+            "Ten": "\u0110\u1ee9c",
+            "Ma_so": "DUC"
+        }
+    ],
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Ho_ten": "Trang v\u0103n Thanh",
+    "Ma_so": "NV_65",
+    "CMND": "045406910",
+    "Gioi_tinh": "Kh\u00e1c",
+    "Dien_thoai": "0949131211",
+    "Dia_chi": "Nguy\u1ec5n thanh U Qu\u1eadn 2-TP. HCM",
+    "Mail": "tvthanh@mrnyahoocom",
+    "Ten_Dang_nhap": "NV_65",
+    "Mat_khau": "NV_65",
+    "Muc_luong": 9800000,
+    "Ngay_sinh": "1987-06-29T17:00:00Z",
+    "Don_vi": {
+        "Ten": "T\u01b0 v\u1ea5n du h\u1ecdc 2",
+        "Ma_so": "DV_4",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh B",
+            "Ma_so": "CN_2"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ten": "Ph\u00e1p",
+            "Ma_so": "PHAP"
+        },
+        {
+            "Ten": "Nga",
+            "Ma_so": "NGA"
+        },
+        {
+            "Ten": "\u00dd",
+            "Ma_so": "Y"
+        }
+    ],
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

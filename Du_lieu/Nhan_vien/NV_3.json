@@ -1,0 +1,77 @@
+{
+    "CMND": "006290174",
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "ANH",
+            "Ten": "Anh"
+        },
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Ph\u00e1p"
+        }
+    ],
+    "Dia_chi": "Ph\u00f9ng thanh S Qu\u1eadn 12-V\u0129nh Long",
+    "Dien_thoai": "0972556999",
+    "Don_vi": {
+        "Chi_nhanh": {
+            "Ma_so": "CN_1",
+            "Ten": "Chi nh\u00e1nh A"
+        },
+        "Ma_so": "DV_1",
+        "Ten": "D\u1ecbch thu\u1eadt"
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Hoa ng\u1ecdc th\u1ee5c Ph\u00e1n",
+    "Ma_so": "NV_3",
+    "Mail": "hntph\u00e1n@mdagmailvn",
+    "Mat_khau": "NV_3",
+    "Muc_luong": 9450000,
+    "Ngay_sinh": "1992-07-06T17:00:00Z",
+    "Ten_Dang_nhap": "NV_3",
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

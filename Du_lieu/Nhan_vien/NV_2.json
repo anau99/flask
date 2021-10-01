@@ -1,0 +1,58 @@
+{
+    "CMND": "005246710",
+    "Danh_sach_Don_xin_nghi": [
+       
+        {
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-10",
+            "So_ngay": "2",
+            "Ly_do": "B\u1ec7nh",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Ph\u00e1p"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "\u0110\u1ee9c"
+        },
+        {
+            "Ma_so": "Y",
+            "Ten": "\u00dd"
+        }
+    ],
+    "Dia_chi": "\u0110inh th\u1ebf D Qu\u1eadn 6-TP. HCM",
+    "Dien_thoai": "0919631495",
+    "Don_vi": {
+        "Chi_nhanh": {
+            "Ma_so": "CN_1",
+            "Ten": "Chi nh\u00e1nh A"
+        },
+        "Ma_so": "DV_2",
+        "Ten": "\u0110a n\u0103ng A"
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Th\u00e1i th\u1ebf hi\u1ec1n Th\u1ee5c",
+    "Ma_so": "NV_2",
+    "Mail": "tthth\u1ee5c@euhyahoocom",
+    "Mat_khau": "NV_2",
+    "Muc_luong": 10850000,
+    "Ngay_sinh": "1970-12-24T17:00:00Z",
+    "Ten_Dang_nhap": "NV_2",
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

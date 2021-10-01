@@ -1,0 +1,70 @@
+{
+	"Ho_ten": "Đặng thị xuân Dung",
+	"Ma_so": "NV_27",
+	"CMND": "035888989",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0900399019",
+	"Dia_chi": "Liên tiến Q Quận 2-TP. HCM",
+	"Mail": "đtxdung@mrnhcmvn",
+	"Ten_Dang_nhap": "NV_27",
+	"Mat_khau": "NV_27",
+	"Muc_luong": 7350000,
+	"Ngay_sinh": "1982-02-22T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	],
+	"Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+	"Y_Kien_QLDV" :[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}],"Y_Kien_QCLCN":[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}]
+}

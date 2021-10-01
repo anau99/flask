@@ -1,0 +1,77 @@
+{
+    "Ho_ten": "Nguy\u1ec5n t\u1eafc ki\u00ean Long",
+    "Ma_so": "NV_16",
+    "CMND": "048053093",
+    "Gioi_tinh": "Nam",
+    "Dien_thoai": "0967332223",
+    "Dia_chi": "Tri\u1ec7u th\u1ecb F Qu\u1eadn 8-TP. HCM",
+    "Mail": "ntklong@gmailvn",
+    "Ten_Dang_nhap": "NV_16",
+    "Mat_khau": "NV_16",
+    "Muc_luong": 6300000,
+    "Ngay_sinh": "1983-12-13T17:00:00Z",
+    "Don_vi": {
+        "Ten": "D\u1ecbch thu\u1eadt",
+        "Ma_so": "DV_1",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh A",
+            "Ma_so": "CN_1"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ten": "Anh",
+            "Ma_so": "ANH"
+        },
+        {
+            "Ten": "\u00dd",
+            "Ma_so": "Y"
+        }
+    ],
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}

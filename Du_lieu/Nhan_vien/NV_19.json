@@ -1,0 +1,66 @@
+{
+	"Ho_ten": "Trương tiến Quân",
+	"Ma_so": "NV_19",
+	"CMND": "063459805",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0966928331",
+	"Dia_chi": "Trương triệu P Quận 1-TP. HCM",
+	"Mail": "ttquân@gmailcom",
+	"Ten_Dang_nhap": "NV_19",
+	"Mat_khau": "NV_19",
+	"Muc_luong": 4550000,
+	"Ngay_sinh": "1971-02-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	],
+	"Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+	"Y_Kien_QLDV" :[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}],"Y_Kien_QCLCN":[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}]
+}

@@ -1,0 +1,70 @@
+{
+	"Ho_ten": "Trần như hồng Thu",
+	"Ma_so": "NV_40",
+	"CMND": "094165798",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0907712961",
+	"Dia_chi": "Dương văn Q Quận 2-TP. HCM",
+	"Mail": "tnhthu@sptyahoovn",
+	"Ten_Dang_nhap": "NV_40",
+	"Mat_khau": "NV_40",
+	"Muc_luong": 11200000,
+	"Ngay_sinh": "1975-10-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	],
+	"Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+	"Y_Kien_QLDV" :[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}],"Y_Kien_QCLCN":[{"Ngay" : "01/01/2021","Noi_dung":"Duyệt"}]
+}

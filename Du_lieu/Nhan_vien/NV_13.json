@@ -1,0 +1,83 @@
+{
+    "Ho_ten": "Tr\u1ea7n \u0111\u00ecnh L\u00fd",
+    "Ma_so": "NV_13",
+    "CMND": "033651201",
+    "Gioi_tinh": "N\u1eef",
+    "Dien_thoai": "0971894553",
+    "Dia_chi": "Cao ph\u1ea1m T Qu\u1eadn 8-TP. HCM",
+    "Mail": "t\u0111l\u00fd@cschcmcom",
+    "Ten_Dang_nhap": "NV_13",
+    "Mat_khau": "NV_13",
+    "Muc_luong": 13300000,
+    "Ngay_sinh": "1980-02-28T17:00:00Z",
+    "Don_vi": {
+        "Ten": "D\u1ecbch thu\u1eadt",
+        "Ma_so": "DV_1",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh A",
+            "Ma_so": "CN_1"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ten": "Anh",
+            "Ma_so": "ANH"
+        },
+        {
+            "Ten": "\u00dd",
+            "Ma_so": "Y"
+        }
+    ],
+    "Danh_sach_Don_xin_nghi": [
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 1,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 2,
+            "Ngay_bat_dau": "2021-03-08",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "Ly_do": "B\u1ec7nh",
+            "MDXN": 3,
+            "Ngay_bat_dau": "2021-03-23",
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {
+                "Ngay": "2021-03-30",
+                "Noi_dung": "ok"
+            },
+            "Y_kien_cua_QLDV": {
+                "Ngay": "2021-03-17",
+                "Noi_dung": "ok"
+            }
+        },
+        {
+            "MDXN": 4,
+            "Ngay_bat_dau": "2021-03-01",
+            "So_ngay": "1",
+            "Ly_do": "Ch\u00e1n",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Y_Kien_QLDV": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ],
+    "Y_Kien_QCLCN": [
+        {
+            "Ngay": "01/01/2021",
+            "Noi_dung": "Duy\u1ec7t"
+        }
+    ]
+}
